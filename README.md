@@ -1,2 +1,2 @@
 # bookMyShow
-Java project for booking movie s online
+Java project for booking movie tickets online
